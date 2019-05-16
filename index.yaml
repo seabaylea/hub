@@ -18,6 +18,23 @@ projects:
     urls:
     - git@github.ibm.com:KnAppPaks/java-microprofile-skeleton.git 
     version: 1.1.0
+  java-spring:
+  - created: 2019-02-01T13:08:45.039293383Z
+    description: Java Spring Project 
+    digest: c043777f921203f4e03c1dc5089ba9d26d9f353b0df2b239b956200aab5205d6
+    icon: https://
+    keywords:
+    - Java 
+    - Microprofile 
+    - Skeleton 
+    name: java-microprofile
+    home: http://my-home
+    maintainers: 
+    - me
+    - you
+    urls:
+    - git@github.ibm.com:KnAppPaks/java-microprofile-skeleton.git 
+    version: 1.0.0    
   nodejs-base:
   - created: 2019-02-01T13:08:45.039293383Z
     description: Node.js Base Project
@@ -33,7 +50,7 @@ projects:
     - me
     urls:
     - git@github.ibm.com:KnAppPaks/nodejs-base-skeleton.git 
-    version: 0.0.1    
+    version: 0.8.0  
   nodejs-express:
   - created: 2019-02-01T13:08:45.039293383Z
     description: Node.js Express Project
@@ -49,20 +66,37 @@ projects:
     - me
     urls:
     - git@github.ibm.com:KnAppPaks/nodejs-express-skeleton.git 
-    version: 1.1.0
-  nodejs-openwhisk:
+    version: 0.8.0
+  python-base:
   - created: 2019-02-01T13:08:45.039293383Z
-    description: Node.js OpenWhisk Action Project
+    description: Node.js Base Project
     digest: c043777f921203f4e03c1dc5089ba9d26d9f353b0df2b239b956200aab5205d6
     icon: https://
     keywords:
     - Node.js
-    - OpenWhisk
-    - Action
-    name: nodejs-openwhisk
+    - Base
+    - Skeleton
+    name: nodejs-base
     home: http://my-home
     maintainers:
     - me
     urls:
-    - git@github.ibm.com:KnAppPaks/nodejs-openwhisk-skeleton.git 
-    version: 1.1.0
+    - git@github.ibm.com:KnAppPaks/nodejs-base-skeleton.git 
+    version: 0.1.0
+  python-flask:
+  - created: 2019-02-01T13:08:45.039293383Z
+    description: Node.js Express Project
+    digest: c043777f921203f4e03c1dc5089ba9d26d9f353b0df2b239b956200aab5205d6
+    icon: https://
+    keywords:
+    - Node.js
+    - Express
+    - Skeleton
+    name: nodejs-express
+    home: http://my-home
+    maintainers:
+    - me
+    urls:
+    - git@github.ibm.com:KnAppPaks/nodejs-express-skeleton.git 
+    version: 0.1.0 
+
