@@ -27,7 +27,7 @@ projects:
     - Java 
     - Microprofile 
     - Skeleton 
-    name: java-microprofile
+    name: java-spring
     home: http://my-home
     maintainers: 
     - me
@@ -69,14 +69,14 @@ projects:
     version: 0.8.0
   python-base:
   - created: 2019-02-01T13:08:45.039293383Z
-    description: Node.js Base Project
+    description: Python Base Project
     digest: c043777f921203f4e03c1dc5089ba9d26d9f353b0df2b239b956200aab5205d6
     icon: https://
     keywords:
     - Node.js
     - Base
     - Skeleton
-    name: nodejs-base
+    name: python-base
     home: http://my-home
     maintainers:
     - me
@@ -85,14 +85,14 @@ projects:
     version: 0.1.0
   python-flask:
   - created: 2019-02-01T13:08:45.039293383Z
-    description: Node.js Express Project
+    description: Python Flask Project
     digest: c043777f921203f4e03c1dc5089ba9d26d9f353b0df2b239b956200aab5205d6
     icon: https://
     keywords:
     - Node.js
     - Express
     - Skeleton
-    name: nodejs-express
+    name: python-flask
     home: http://my-home
     maintainers:
     - me
